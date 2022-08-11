@@ -1,0 +1,15 @@
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\bin\Debug\net6.0\instruction.exe
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\bin\Debug\net6.0\instruction.deps.json
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\bin\Debug\net6.0\instruction.runtimeconfig.json
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\bin\Debug\net6.0\instruction.dll
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\bin\Debug\net6.0\instruction.pdb
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.csproj.AssemblyReference.cache
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.AssemblyInfoInputs.cache
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.AssemblyInfo.cs
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.csproj.CoreCompileInputs.cache
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.dll
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\refint\instruction.dll
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.pdb
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\instruction.genruntimeconfig.cache
+C:\Users\muras\OneDrive\Рабочий стол\Справочник IT\c_sharp\instruction\obj\Debug\net6.0\ref\instruction.dll
